@@ -21,7 +21,6 @@
 !.gitignore
 
 # Visual Studio build objects
-bin/
 csx/
 obj/
 
